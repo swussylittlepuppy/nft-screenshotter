@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^13.5.1",
+    "sus": "^0.1.6"
+  },
+  "name": "nft-screenshotter",
+  "version": "16.9.0",
+  "description": "hello, this is an nft screenshotter. I made with puppeteer i allow anyone to destribute the software. None will be charged a fee",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm i "
+  },
+  "repository": {
+    "type": "git",
+    "url": "ss"
+  },
+  "keywords": [
+    "puppeteer",
+    "NFT",
+    "Screenshotter",
+    "robot"
+  ],
+  "author": "terrafiles.net",
+  "license": "MIT"
+}
