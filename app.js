@@ -38,7 +38,7 @@ const puppeteer = require('puppeteer');
   }
   const page = (await browser.pages())[0];
   await autoScroll(page)
-  await page.goto('https://openseauserdata.com/');
+  await page.goto('https://opensea.com/');
     const extractedText = await page.$eval('*', (el) => el.innerText);
     if (extractedText.includes("") === true) {
      var pageContainsNFT = true;
