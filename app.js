@@ -1,3 +1,4 @@
+// Made By https://terrafiles.net
 const puppeteer = require('puppeteer');
 
 (async () => {
